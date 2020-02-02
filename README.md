@@ -30,7 +30,8 @@ This repo contains books, courses, certifications, and nanodegrees that have hel
 
 
 ### **Software testing**
-1. [TBD]()
+1. [Software engineering for data scientist in Python]()
+2. [TBD]()
 
 
 ### **Software debugging**
